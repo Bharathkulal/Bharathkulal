@@ -1,240 +1,200 @@
-<!-- ========================================= -->
-<!-- BHARATH KULAL | ANIMATED GITHUB PROFILE -->
-<!-- ========================================= -->
+<!--
+  Bharath Kulal - GitHub profile README
+  Edit the sections marked EDIT and replace the PLACEHOLDER badges.
+-->
 
-<div align="center">
+<p align="center">
+  <img src="assets/hero-banner.svg" width="100%" alt="Bharath Kulal — AI Engineer, Developer, ML Enthusiast. I build intelligent systems, experiment with technology, and turn ideas into real-world products." />
+</p>
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07130F,40:006B4F,100:00F5A0&text=Bharath%20Kulal&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1400&color=00F5A0&center=true&vCenter=true&repeat=true&width=560&height=44&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Full-Stack+Developer;Python+Developer;Builder+of+Real-World+Projects;Lifelong+Learner" alt="Typing animation cycling through: AI Engineer in Progress, Machine Learning Enthusiast, Full-Stack Developer, Python Developer, Builder of Real-World Projects, Lifelong Learner" />
+</p>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Bharath+Kulal+%F0%9F%91%8B;Building+Ideas+Into+Reality;Exploring+Artificial+Intelligence;Learning.+Building.+Improving.;Future+AI+Engineer+%F0%9F%A4%96" alt="Animated typing introduction" />
-</a>
+<p align="center">
+  <a href="https://bharathkulal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bharathkulal.vercel.app-00F5A0?style=flat-square&labelColor=101714&logo=vercel&logoColor=00F5A0" alt="Portfolio: bharathkulal.vercel.app" /></a>
+  <a href="https://github.com/Bharathkulal"><img src="https://img.shields.io/badge/GitHub-Bharathkulal-101714?style=flat-square&logo=github&logoColor=00F5A0" alt="GitHub: Bharathkulal" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Karnataka,_India-101714?style=flat-square&logo=googlemaps&logoColor=9BA8A1" alt="Based in Karnataka, India" />
+</p>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- PROFILE BADGES -->
-<a href="https://bharathkulal.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-<a href="https://github.com/Bharathkulal">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Bharathkulal&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-<!-- ANIMATED MARQUEE -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:006B4F,100:00F5A0&height=2" width="100%" />
-
-**`DEVELOPMENT`** &nbsp; ✦ &nbsp; **`ARTIFICIAL INTELLIGENCE`** &nbsp; ✦ &nbsp; **`MACHINE LEARNING`** &nbsp; ✦ &nbsp; **`INNOVATION`**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:006B4F,100:00F5A0&height=2" width="100%" />
-
-</div>
-
-## `01` — About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hey, I'm Bharath!
-
-🎓 BCA Student  
-💻 Full-Stack Development Learner  
-🤖 AI & Machine Learning Enthusiast  
-🚀 Building practical projects and exploring new technologies.
-
-- 🌱 Currently improving my development and AI skills.
-- 🧠 Interested in solving real-world problems with technology.
-- 🛠️ Learning by building, experimenting, and improving.
-- 🎯 Long-term goal: Become an AI Engineer.
-
-<br/>
+## `01 // about`
 
 ```python
+# profile.py
 class BharathKulal:
-    def __init__(self):
-        self.role = "BCA Student"
-        self.focus = [
-            "Full-Stack Development",
-            "Artificial Intelligence",
-            "Machine Learning"
-        ]
-        self.motto = "Never stop learning"
-
-    def build(self):
-        return "Turning ideas into reality 🚀"
+    role      = "BCA student"
+    location  = "Karnataka, India"
+    learning  = ["Artificial Intelligence", "Machine Learning", "Python"]
+    exploring = ["Full-stack development", "Backend engineering"]
+    building  = "practical software and useful intelligent systems"
+    goal      = "AI Engineer"
 ```
 
-</td>
-<td width="40%" align="center" valign="middle">
+▸ I'm a **BCA student** building my foundations in computer science.<br>
+▸ I'm learning **AI and Machine Learning**, starting from the fundamentals.<br>
+▸ I learn by **building practical software**, not just following tutorials.<br>
+▸ I'm exploring **full-stack and backend development**.<br>
+▸ I want to develop **useful intelligent systems**, and grow into an AI Engineer.
 
-<!-- ANIMATED DEVELOPER VISUAL -->
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration" />
+<sub>`interests`: AI · ML · Python · Full-stack · Backend · AI-powered products · Open source</sub>
 
-<br/><br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00F5A0?style=for-the-badge&labelColor=101714" />
+## `02 // stack`
 
-</td>
-</tr>
-</table>
+<!-- EDIT: move badges between "core" and "exploring" so this stays honest. -->
 
----
+**Core** — what I build with today
 
-## `02` — My Tech Universe
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-101714?style=flat-square&logo=python&logoColor=00F5A0) ![JavaScript](https://img.shields.io/badge/JavaScript-101714?style=flat-square&logo=javascript&logoColor=00F5A0) ![C](https://img.shields.io/badge/C-101714?style=flat-square&logo=c&logoColor=00F5A0) ![Java](https://img.shields.io/badge/Java-101714?style=flat-square&logo=openjdk&logoColor=00F5A0) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-101714?style=flat-square&logo=html5&logoColor=00F5A0) ![CSS3](https://img.shields.io/badge/CSS3-101714?style=flat-square&logo=css3&logoColor=00F5A0) ![React](https://img.shields.io/badge/React-101714?style=flat-square&logo=react&logoColor=00F5A0) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-101714?style=flat-square&logo=mysql&logoColor=00F5A0) ![MongoDB](https://img.shields.io/badge/MongoDB-101714?style=flat-square&logo=mongodb&logoColor=00F5A0) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-101714?style=flat-square&logo=git&logoColor=00F5A0) ![GitHub](https://img.shields.io/badge/GitHub-101714?style=flat-square&logo=github&logoColor=00F5A0) ![VS Code](https://img.shields.io/badge/VS_Code-101714?style=flat-square&logo=visualstudiocode&logoColor=00F5A0) |
 
-<div align="center">
+**Exploring** — actively learning, not claiming mastery
 
-### Languages
+| | |
+|:--|:--|
+| **AI & Data** | ![NumPy](https://img.shields.io/badge/NumPy-101714?style=flat-square&logo=numpy&logoColor=9BA8A1) ![Pandas](https://img.shields.io/badge/Pandas-101714?style=flat-square&logo=pandas&logoColor=9BA8A1) ![scikit-learn](https://img.shields.io/badge/scikit--learn-101714?style=flat-square&logo=scikitlearn&logoColor=9BA8A1) ![Jupyter](https://img.shields.io/badge/Jupyter-101714?style=flat-square&logo=jupyter&logoColor=9BA8A1) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-101714?style=flat-square&logo=fastapi&logoColor=9BA8A1) ![Node.js](https://img.shields.io/badge/Node.js-101714?style=flat-square&logo=nodedotjs&logoColor=9BA8A1) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-101714?style=flat-square&logo=nextdotjs&logoColor=9BA8A1) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101714?style=flat-square&logo=tailwindcss&logoColor=9BA8A1) ![TypeScript](https://img.shields.io/badge/TypeScript-101714?style=flat-square&logo=typescript&logoColor=9BA8A1) |
+| **More** | ![C#](https://img.shields.io/badge/C%23-101714?style=flat-square&logo=csharp&logoColor=9BA8A1) ![Postman](https://img.shields.io/badge/Postman-101714?style=flat-square&logo=postman&logoColor=9BA8A1) |
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs&theme=dark" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## `03` — Projects in Progress
+## `03 // projects`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<div align="center">
+`PROJECT 01`
 
-### 🤖 BIMBA AI
+### BIMBA AI
 
-<img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-00F5A0?style=flat-square" />
+An AI-powered resume and career platform: resume analysis, ATS evaluation, career recommendations, and related tools.
 
-</div>
+**Focus** · AI-assisted resume & career tooling
 
-An AI-powered resume and career platform.
+<!-- EDIT: add stack badges here -->
 
-- Resume analysis
-- ATS evaluation
-- Job matching
-- Career recommendations
-
-**Focus:** AI + Career Technology
+<!-- PLACEHOLDER: replace the badge below with:
+[![View repository](https://img.shields.io/badge/View_repository-00F5A0?style=flat-square&logo=github&logoColor=080B0A)](https://github.com/Bharathkulal/REPO_NAME) -->
+![Repository link: add URL](https://img.shields.io/badge/repository-add_link-101714?style=flat-square&logo=github&logoColor=9BA8A1)
 
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
+`PROJECT 02`
 
-### 🎯 GURI
+### GURI
 
-<img src="https://img.shields.io/badge/EDTECH-LEARNING-00F5A0?style=flat-square" />
+A student-focused learning platform built around learning roadmaps, practical learning, skill development, and career preparation.
 
-</div>
+**Focus** · Roadmap-driven learning for students
 
-A student-focused learning platform.
+<!-- EDIT: add stack badges here -->
 
-- Learning roadmaps
-- Skill development
-- Practical projects
-- Career preparation
-
-**Focus:** Education + Technology
+<!-- PLACEHOLDER: replace the badge below with the real repository link -->
+![Repository link: add URL](https://img.shields.io/badge/repository-add_link-101714?style=flat-square&logo=github&logoColor=9BA8A1)
 
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
+`PROJECT 03`
 
-### 🩺 HealthGuard AI
+### HEALTHGUARD AI
 
-<img src="https://img.shields.io/badge/AI-HEALTHCARE-00F5A0?style=flat-square" />
+An AI-powered health risk assessment and decision-support project.
 
-</div>
+**Focus** · Risk assessment & decision support
 
-An AI-powered health-risk assessment project.
+<!-- EDIT: add stack badges here -->
 
-- Risk assessment
-- Explanations of risk factors
-- Decision-support features
-- Health insights
-
-**Focus:** AI + Healthcare
+<!-- PLACEHOLDER: replace the badge below with the real repository link -->
+![Repository link: add URL](https://img.shields.io/badge/repository-add_link-101714?style=flat-square&logo=github&logoColor=9BA8A1)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center"><sub>More work and write-ups on my <a href="https://bharathkulal.vercel.app">portfolio</a>.</sub></p>
 
-*Building projects. Learning through practice. Improving every day.*
+<img src="assets/divider.svg" width="100%" alt="" />
 
-</div>
+## `04 // github stats`
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bharathkulal&show_icons=true&hide_border=true&bg_color=101714&title_color=00F5A0&icon_color=00F5A0&text_color=F5F7F6&ring_color=00F5A0&border_radius=12&custom_title=GitHub+Overview" alt="GitHub overview statistics for Bharathkulal: stars, commits, pull requests, issues" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkulal&layout=compact&langs_count=6&hide_border=true&bg_color=101714&title_color=00F5A0&text_color=F5F7F6&border_radius=12&custom_title=Most+Used+Languages" alt="Most used languages across Bharathkulal's public repositories" />
+</p>
 
-## `04` — GitHub Analytics
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Bharathkulal&hide_border=true&background=101714&ring=00F5A0&fire=00F5A0&currStreakNum=F5F7F6&sideNums=F5F7F6&currStreakLabel=A3FFCB&sideLabels=9BA8A1&dates=9BA8A1&border_radius=12" alt="GitHub contribution streak for Bharathkulal" />
+</p>
 
-<div align="center">
+<p align="center"><sub>Cards are generated by third-party services and may be slow or temporarily unavailable. The language chart only reflects code in public repositories, not my full skill set. <a href="https://github.com/Bharathkulal?tab=repositories">Browse repositories directly →</a></sub></p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bharathkulal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkulal&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" />
+## `05 // contribution grid`
 
-<br/><br/>
+<p align="center">
+  <img src="assets/snake-header.svg" width="100%" alt="Terminal-style panel: snk --user Bharathkulal, scanning contribution grid" />
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Bharathkulal&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharathkulal/Bharathkulal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharathkulal/Bharathkulal/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Bharathkulal/Bharathkulal/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating the squares of Bharathkulal's GitHub contribution graph" />
+  </picture>
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/snake-footer.svg" width="100%" alt="Animated emerald snake slithering along a line, with a less-to-more contribution legend" />
+</p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `05` — Contribution Animation
+## `06 // journey`
 
-<div align="center">
+> Template section: nothing below is claimed until I fill it in. Replace each placeholder row with something real.
 
-<img src="https://raw.githubusercontent.com/Bharathkulal/Bharathkulal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<!-- EDIT: Certifications -->
+**Certifications**
 
-</div>
+| Certification | Issuer | Year | Credential |
+|:--|:--|:--|:--|
+| _add your first certification_ | — | — | — |
 
----
+<!-- EDIT: Learning milestones (newest first) -->
+**Learning milestones**
 
-## `06` — My Developer Mindset
+| When | Milestone | Proof |
+|:--|:--|:--|
+| _YYYY-MM_ | _add a milestone, e.g. a model trained or a project shipped_ | _link to repo or write-up_ |
 
-<div align="center">
+<!-- EDIT: Important projects -->
+**Important projects**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Learn+something+new+every+day.;Build+projects+that+solve+real+problems.;Turn+curiosity+into+knowledge.;Progress+over+perfection." alt="Animated developer mindset" />
+▸ BIMBA AI · GURI · HEALTHGUARD AI — see [projects](#03--projects)
 
-</div>
+<!-- EDIT: Open-source contributions -->
+**Open-source contributions**
 
----
+▸ _Add merged pull requests or issues here as they happen: `repo: short description (link)`._
 
-## `07` — Let's Connect
+<br>
 
-<div align="center">
+<p align="center">
+  <img src="assets/footer-banner.svg" width="100%" alt="Learn deeply. Build boldly. Improve continuously." />
+</p>
 
-<a href="https://bharathkulal.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-<a href="https://github.com/Bharathkulal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💚 Learn. Build. Innovate.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:006B4F,100:07130F&height=130&section=footer" />
-
-</div>
+<p align="center">
+  <a href="https://bharathkulal.vercel.app">bharathkulal.vercel.app</a> &nbsp;·&nbsp; <a href="https://github.com/Bharathkulal">github.com/Bharathkulal</a>
+</p>
